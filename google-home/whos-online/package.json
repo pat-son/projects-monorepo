@@ -1,0 +1,19 @@
+{
+  "name": "whos-online",
+  "version": "1.0.0",
+  "description": "A google home action to see who's on Xbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pat-son/projects-monorepo.git"
+  },
+  "author": "Patrick Son",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pat-son/projects-monorepo/issues"
+  },
+  "homepage": "https://github.com/pat-son/projects-monorepo#readme"
+}
